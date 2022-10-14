@@ -15,3 +15,5 @@ conda create -n test python=3.8
 conda activate test
 pip install -r requirements.txt
 ```
+
+For full installation instructions, and how to use this package, see: https://github.com/PaulJWright/test/wiki
